@@ -1,4 +1,4 @@
-# sum of first ten even number  integer
-listn={2,4,6,8,10}
-sumB =sum(listn)
-print(sumB)
+# sum of first ten odd number  integer
+a= range(1,10,2)
+sumn= sum(a)
+print (sum(a))
